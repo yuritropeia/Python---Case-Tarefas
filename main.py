@@ -52,7 +52,7 @@ while True:
     opcao = input("Escolha uma opção: ")
     if opcao == '1':
         nome = input("Digite uma tarefa: ")
-        prioridade = input("Digite ua prioridade da tarefa: ")
+        prioridade = input("Digite a prioridade da tarefa: ")
 
         adicionar_tarefa(nome, prioridade)    
         
